@@ -1,6 +1,6 @@
 # Apache-Hadoop-Components-HDFS-Yarn-Apache-Spark-Apache-Ranger
-Apache Hadoop is a powerful framework for distributed storage and processing of large datasets across clusters of computers. 
-It consists of several core components and tools that enable big data processing.
+
+Apache Hadoop is a powerful framework for distributed storage and processing of large datasets across clusters of computers. It consists of several core components and tools that enable big data processing.
 
 Hadoop Distributed File System (HDFS): A distributed file system designed to store large files across multiple machines. It provides high throughput access to application data and is fault-tolerant.
 
